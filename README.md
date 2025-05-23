@@ -37,6 +37,8 @@ A smart, AI-powered resume screening tool built using **Streamlit** that automat
 ## 📸 Screenshot
 
 ![screenshot](https://github.com/TanmayKJha/AI-Resume-Screening-Candidate-Ranking-System/blob/main/HomePage.png)
+![screenshot](https://github.com/TanmayKJha/AI-Resume-Screening-Candidate-Ranking-System/blob/main/Output.png)
+![screenshot](https://github.com/TanmayKJha/AI-Resume-Screening-Candidate-Ranking-System/blob/main/RankingOutput.png)
 
 ---
 
