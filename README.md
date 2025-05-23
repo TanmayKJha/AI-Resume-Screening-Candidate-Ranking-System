@@ -26,7 +26,7 @@ A smart, AI-powered resume screening tool built using **Streamlit** that automat
 
 ## 🛠️ Tech Stack
 
-- **Python 3.x**
+- **Python 3.11
 - **Streamlit** — for the interactive web UI
 - **PyPDF2** — to extract text from PDF resumes
 - **scikit-learn** — for TF-IDF vectorization & cosine similarity
