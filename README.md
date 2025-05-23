@@ -2,6 +2,8 @@
 
 A smart, AI-powered resume screening tool built using **Streamlit** that automates the process of matching resumes to job descriptions and ranks candidates based on relevance.
 
+🔗 **Live Demo**: [Click here to try the app](https://ai-resume-screening-candidate-ranking-system-dqpexsx6sbthrneyw.streamlit.app/)
+
 ---
 
 ## 🚀 Features
@@ -26,7 +28,7 @@ A smart, AI-powered resume screening tool built using **Streamlit** that automat
 
 ## 🛠️ Tech Stack
 
-- **Python 3.11
+- **Python 3.11**
 - **Streamlit** — for the interactive web UI
 - **PyPDF2** — to extract text from PDF resumes
 - **scikit-learn** — for TF-IDF vectorization & cosine similarity
